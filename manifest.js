@@ -43,7 +43,7 @@ export default [
         description:
           'Waffles is the next step after the completion of Swirl! You are expected to make a website that is packed with cool features (using JavaScript) and has something fun and unique! As a reward, we will give you $10 to buy Waffles!',
         img: '/cards/waffles.jpg',
-        background: '#f8b84f',
+        background: '#A16D00',
         titleColor: '#715547',
         descriptionColor: '#000',
         external: true,
